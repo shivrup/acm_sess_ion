@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Project Title</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Optional CSS -->
+</head>
+<body>
+    <header>
+        <h1>Your Project Title</h1>
+        <p>A brief description of your project goes here.</p>
+        <a href="https://github.com/yourusername/yourproject" target="_blank">View on GitHub</a>
+    </header>
+
+    <main>
+        <section id="features">
+            <h2>Features</h2>
+            <ul>
+                <li>Feature 1</li>
+                <li>Feature 2</li>
+                <li>Feature 3</li>
+            </ul>
+        </section>
+
+        <section id="installation">
+            <h2>Installation</h2>
+            <p>Instructions on how to install your project:</p>
+            <pre><code>git clone https://github.com/yourusername/yourproject.git</code></pre>
+        </section>
+
+        <section id="usage">
+            <h2>Usage</h2>
+            <p>How to use your project:</p>
+        
